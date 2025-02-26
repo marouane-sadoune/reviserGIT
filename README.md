@@ -1,2 +1,2 @@
 # reviserGIT
-this repo just relearn basic thigs in git 
+this repo just relearn basic things in git like merge, sqush, reset...
